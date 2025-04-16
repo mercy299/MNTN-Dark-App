@@ -27,4 +27,4 @@ This was a personal project aimed at sharpening my front-end skills by mimicking
 
 ## 📸 Screenshot
 
-
+![MNTN Dark Preview Page](Page.png)
