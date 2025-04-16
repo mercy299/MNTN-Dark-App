@@ -15,7 +15,7 @@ This is a **replication of the MNTN Dark landing page**, built using just **HTML
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/mntn-dark-page-clone.git
+git clone https://github.com/mercy299/MNTN-Dark-App.git
 cd mntn-dark-page-clone
 ```
 
